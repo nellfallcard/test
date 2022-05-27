@@ -9,6 +9,9 @@ And now this is a list of the stuff I am yet to buy:
 
 - Soap for washing clothes.
 - Proper green tea.
+- Probably eggs.
+- I will most likely run out of greens so that too.
+- A socket converter?
 - Sponge.
 - Kitchen towels.
 - I'd do good with new tenis shoes and a sundress.
