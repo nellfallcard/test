@@ -11,4 +11,10 @@ And now this is a list of the stuff I am yet to buy:
 - Proper green tea.
 - Sponge.
 - Kitchen towels.
+<<<<<<< HEAD
 - I'd do good with new tenis shoes and a sundress.
+=======
+- I'd do good with new tenis shoes and a sundress.
+
+We probably shouldn't be this self confessing on a doc that will be online for everyone to read :/
+>>>>>>> d02e7fa (reflecting on content)
